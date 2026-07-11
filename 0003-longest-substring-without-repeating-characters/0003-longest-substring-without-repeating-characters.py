@@ -4,7 +4,6 @@ class Solution:
         res = 0
         n = len(s)
         l = 0
-        h = 0 
         for h in range(n):
             if s[h] not in f:
                 f[s[h]]=0
