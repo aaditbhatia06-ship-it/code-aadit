@@ -5,7 +5,7 @@ class Solution:
         s = 0
         low = 0
         res = float('inf')
-        while(high<n):
+        for high in range (n):
             s = s + nums[high]
             while(s>=target):
                 le = high -low + 1
