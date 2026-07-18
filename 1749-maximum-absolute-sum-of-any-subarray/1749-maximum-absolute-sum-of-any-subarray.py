@@ -8,8 +8,7 @@ class Solution:
             c2 = bestend + nums[i]
             bestend = max(c1,c2)
             c3 = alt + nums[i]
-            c4 = nums[i]
-            alt = min(c3,c4)
+            alt = min(c3,c1)
             
             ans = max(ans,max(abs(bestend),abs(alt)))
         return ans
