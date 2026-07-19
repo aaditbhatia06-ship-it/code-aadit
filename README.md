@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0977-squares-of-a-sorted-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
