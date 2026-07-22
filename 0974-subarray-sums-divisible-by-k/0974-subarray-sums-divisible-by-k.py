@@ -7,8 +7,6 @@ class Solution:
         for i in range(len(nums)):
             s+=nums[i]
             rem = s % k
-            if (rem<0):
-                rem +=k
             if rem not in freq:
                 freq[rem]=0
             ans += freq[rem]
