@@ -2,9 +2,9 @@ class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         intervals.sort()
         start1 = intervals[0][0]
-        end1 = intervals[0][1]
-        merged = []
-        for i in range (1,len(intervals)):
+        end1 = intervals[0][1]  
+        merged=[]
+        for i in range(1,len(intervals)):
             start2 = intervals[i][0]
             end2 = intervals[i][1]
             if(end1>=start2):
@@ -16,6 +16,7 @@ class Solution:
                 end1 = end2
         merged.append([start1,end1])
         return merged
+
             
              
 
