@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3794-reverse-string-prefix](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0424-longest-repeating-character-replacement) |
+| [3794-reverse-string-prefix](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/3794-reverse-string-prefix) |
 ## Linked List
 |  |
 | ------- |
