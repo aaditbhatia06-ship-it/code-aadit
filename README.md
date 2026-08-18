@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0560-subarray-sum-equals-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0739-daily-temperatures) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
