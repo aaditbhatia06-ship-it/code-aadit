@@ -1,11 +1,12 @@
 class Solution:
     def maxNumberOfBalloons(self, text: str) -> int:
-        need = {}
-        need['b'] =1
-        need['a'] =1
-        need['l'] =2
-        need['o'] =2
-        need['n'] =1
+        need = {
+        'b':1,
+        'a':1,
+        'l':2,
+        'o':2,
+        'n':1
+        }
         have = {}
         for i in range(len(text)):
             if text[i] not in have:
