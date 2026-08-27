@@ -13,9 +13,12 @@ class Solution:
         if(k==0):
             return head
         c = n-k
-        while(count<c):
-            t = t.next
-            count+=1
+        while(t is not None):
+            if(count == c):
+                break
+            else:
+                t = t.next
+                count+=1
         last.next = head
         head = t.next
         t.next = None
