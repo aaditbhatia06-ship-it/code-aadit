@@ -6,9 +6,10 @@ class Solution:
             hours = 0
             mid = int((low+high)/2)
             for i in range (len(piles)):
-                hours += int(piles[i]/mid)
-                if(piles[i]%mid != 0):
-                    hours+=1
+                hours+=(piles[i]+mid-1)//mid
+                # hours += int(piles[i]/mid)
+                # if(piles[i]%mid != 0):
+                #     hours+=1
             if(hours<=h):
                 high = mid - 1
             else:
