@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0202-happy-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
