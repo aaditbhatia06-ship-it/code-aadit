@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0503-next-greater-element-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -215,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0240-search-a-2d-matrix-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
