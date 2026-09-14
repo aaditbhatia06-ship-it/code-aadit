@@ -7,7 +7,7 @@ class Solution:
         low = 0
         high = k
         while(high<len(nums)):
-            s = float((s-nums[low]+nums[high]))
+            s = ((s-nums[low]+nums[high]))
             res = max(res,s)
             low +=1
             high+=1
