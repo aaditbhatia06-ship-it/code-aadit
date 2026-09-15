@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0503-next-greater-element-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0409-longest-palindrome) |
@@ -151,11 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/0268-missing-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aaditbhatia06-ship-it/code-aadit/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
