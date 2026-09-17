@@ -8,9 +8,6 @@ class Solution:
             rem = x % 10
             x = x//10
             op = op * 10 + rem
-        if op==y:
-            return True
-        else:
-            return False
-
+        return (op==y)
+       
     
